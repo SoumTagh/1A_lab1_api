@@ -10,6 +10,7 @@ For each app, I fetched reviews using all 3 available sort modes:
 - Most Relevant
 - Newest
 - Rating
+
 Each mode returned up to 200 reviews, and duplicates were removed using the unique reviewId. This gave a much richer and less biased dataset compared to using a single sort mode.
 
 ## Output
